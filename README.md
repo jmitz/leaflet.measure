@@ -6,3 +6,7 @@ Adds a button below the map's zoom controls that allows you to activate an inter
 More info coming soon...
 
 For a demo see [here](http://jtreml.github.com/leaflet.measure/example.html).
+
+modified the units to display miles rather than nautical miles.
+
+Works with Leaflet v0.7.3
